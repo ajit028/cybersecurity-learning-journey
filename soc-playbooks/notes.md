@@ -8,3 +8,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2025-10-05 23:23] TCP three-way handshake
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
