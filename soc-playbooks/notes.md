@@ -13,3 +13,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2025-10-09 14:21] AD GPO baselines
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
