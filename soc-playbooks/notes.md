@@ -18,3 +18,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2025-10-15 21:13] SSH brute-force detection
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
