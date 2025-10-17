@@ -8,3 +8,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2025-10-17 14:27] Memory dump analysis
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
