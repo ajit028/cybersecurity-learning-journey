@@ -23,3 +23,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2025-10-18 17:33] MITRE ATT&CK Initial Access
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
