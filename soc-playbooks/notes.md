@@ -28,3 +28,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2025-10-21 18:20] Memory dump analysis
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
