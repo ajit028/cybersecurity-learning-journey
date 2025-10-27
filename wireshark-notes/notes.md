@@ -33,3 +33,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2025-10-27 14:37] AD GPO baselines
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
