@@ -38,3 +38,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2025-10-28 15:28] Wireshark HTTP streams
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
