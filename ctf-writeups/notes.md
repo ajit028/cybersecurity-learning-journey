@@ -13,3 +13,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
+
+### [2025-10-28 11:49] Memory dump analysis
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
