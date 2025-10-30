@@ -28,3 +28,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2025-10-30 10:41] Bandit level progression
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
