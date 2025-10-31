@@ -33,3 +33,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2025-10-31 19:53] Incident containment SOPs
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
