@@ -18,3 +18,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2025-11-02 17:22] Linux permissions
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
