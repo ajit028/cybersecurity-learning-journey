@@ -43,3 +43,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2025-11-02 22:49] VirusTotal API enrichment
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
