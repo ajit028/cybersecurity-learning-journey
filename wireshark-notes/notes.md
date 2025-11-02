@@ -43,3 +43,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2025-11-02 11:24] DNS query entropy
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
