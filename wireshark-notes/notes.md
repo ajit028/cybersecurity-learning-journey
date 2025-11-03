@@ -48,3 +48,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2025-11-03 11:17] Sysmon Event ID 1
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
