@@ -18,3 +18,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2025-11-04 14:07] Suricata rule syntax
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
