@@ -8,3 +8,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2025-11-04 14:42] VirusTotal API enrichment
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
