@@ -8,3 +8,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2025-11-05 10:58] Wireshark HTTP streams
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
