@@ -18,3 +18,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2025-11-05 13:42] SSH brute-force detection
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
