@@ -18,3 +18,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2025-11-06 20:34] Wireshark HTTP streams
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
