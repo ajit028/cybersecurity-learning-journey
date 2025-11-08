@@ -53,3 +53,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2025-11-08 16:28] Splunk SPL stats and timechart
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
