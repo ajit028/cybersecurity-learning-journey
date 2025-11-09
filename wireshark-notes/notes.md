@@ -63,3 +63,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2025-11-09 20:03] AD GPO baselines
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
