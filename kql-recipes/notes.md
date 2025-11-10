@@ -18,3 +18,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
+
+### [2025-11-10 12:59] Splunk SPL stats and timechart
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
