@@ -13,3 +13,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2025-11-10 17:46] Memory dump analysis
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
