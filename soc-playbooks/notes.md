@@ -53,3 +53,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2025-11-10 21:42] DNS query entropy
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
