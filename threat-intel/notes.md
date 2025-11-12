@@ -33,3 +33,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2025-11-12 20:28] Kerberoasting mitigation
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
