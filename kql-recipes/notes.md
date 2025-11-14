@@ -23,3 +23,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
+
+### [2025-11-14 11:52] AD GPO baselines
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
