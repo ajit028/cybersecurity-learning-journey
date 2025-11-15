@@ -28,3 +28,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2025-11-15 17:38] TCP three-way handshake
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
