@@ -18,3 +18,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2025-11-17 14:23] VirusTotal API enrichment
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
