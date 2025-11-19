@@ -23,3 +23,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2025-11-19 17:57] Incident containment SOPs
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
