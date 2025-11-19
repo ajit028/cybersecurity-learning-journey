@@ -28,3 +28,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2025-11-19 11:20] VirusTotal API enrichment
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
