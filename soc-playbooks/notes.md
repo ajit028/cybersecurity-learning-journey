@@ -58,3 +58,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2025-11-20 09:21] Splunk SPL stats and timechart
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
