@@ -28,3 +28,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2025-11-21 14:27] SSH brute-force detection
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
