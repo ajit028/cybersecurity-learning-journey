@@ -73,3 +73,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2025-11-22 23:14] Splunk SPL stats and timechart
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
