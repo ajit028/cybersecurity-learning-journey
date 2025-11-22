@@ -33,3 +33,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2025-11-22 09:45] Base64 payload decoding
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
