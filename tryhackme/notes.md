@@ -28,3 +28,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2025-11-23 22:35] Port scanning basics
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
