@@ -38,3 +38,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2025-11-24 16:18] VirusTotal API enrichment
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
