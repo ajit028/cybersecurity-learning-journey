@@ -38,3 +38,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2025-11-24 22:02] AD GPO baselines
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
