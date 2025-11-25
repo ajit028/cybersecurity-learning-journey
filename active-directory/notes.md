@@ -33,3 +33,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2025-11-25 23:45] Kerberoasting mitigation
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
