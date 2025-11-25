@@ -28,3 +28,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2025-11-25 23:41] Wireshark HTTP streams
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
