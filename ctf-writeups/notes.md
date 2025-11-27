@@ -28,3 +28,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2025-11-27 15:12] TCP three-way handshake
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
