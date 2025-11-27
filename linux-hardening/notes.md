@@ -48,3 +48,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2025-11-27 21:11] Phishing email header analysis
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
