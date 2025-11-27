@@ -33,3 +33,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2025-11-27 20:13] Phishing email header analysis
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
