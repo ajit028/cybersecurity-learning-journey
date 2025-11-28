@@ -38,3 +38,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2025-11-28 20:20] Incident containment SOPs
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
