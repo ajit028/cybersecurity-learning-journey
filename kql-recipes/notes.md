@@ -53,3 +53,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2025-12-01 10:11] Kerberoasting mitigation
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
