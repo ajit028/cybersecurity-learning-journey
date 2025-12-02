@@ -33,3 +33,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2025-12-02 16:03] Phishing email header analysis
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
