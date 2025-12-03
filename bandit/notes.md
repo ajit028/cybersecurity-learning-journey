@@ -38,3 +38,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2025-12-03 12:08] Memory dump analysis
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
