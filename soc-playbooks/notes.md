@@ -68,3 +68,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2025-12-05 09:57] MITRE ATT&CK Initial Access
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
