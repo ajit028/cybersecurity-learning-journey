@@ -48,3 +48,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
+
+### [2025-12-06 13:54] VirusTotal API enrichment
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
