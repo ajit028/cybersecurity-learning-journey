@@ -48,3 +48,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2025-12-07 16:21] AD GPO baselines
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
