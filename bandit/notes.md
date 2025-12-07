@@ -43,3 +43,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2025-12-07 11:30] Base64 payload decoding
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
