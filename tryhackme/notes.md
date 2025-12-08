@@ -33,3 +33,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2025-12-08 10:35] AD GPO baselines
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
