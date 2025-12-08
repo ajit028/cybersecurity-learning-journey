@@ -58,3 +58,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2025-12-08 20:47] Base64 payload decoding
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
