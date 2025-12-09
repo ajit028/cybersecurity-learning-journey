@@ -43,3 +43,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2025-12-09 09:02] Kerberoasting mitigation
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
