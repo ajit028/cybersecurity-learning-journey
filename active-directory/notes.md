@@ -48,3 +48,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2025-12-10 19:31] Phishing email header analysis
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
