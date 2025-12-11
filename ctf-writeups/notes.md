@@ -38,3 +38,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2025-12-11 11:00] Wireshark HTTP streams
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
