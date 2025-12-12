@@ -38,3 +38,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2025-12-12 14:51] Base64 payload decoding
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
