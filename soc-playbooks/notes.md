@@ -83,3 +83,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2025-12-13 17:32] KQL join queries
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
