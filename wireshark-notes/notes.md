@@ -83,3 +83,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2025-12-13 20:20] Incident containment SOPs
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
