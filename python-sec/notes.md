@@ -43,3 +43,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2025-12-17 10:41] TCP three-way handshake
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
