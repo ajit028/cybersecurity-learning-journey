@@ -48,3 +48,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2025-12-18 16:45] Sysmon Event ID 1
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
