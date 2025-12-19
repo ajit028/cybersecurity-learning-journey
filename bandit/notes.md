@@ -58,3 +58,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2025-12-19 15:45] AD GPO baselines
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
