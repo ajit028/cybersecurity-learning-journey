@@ -53,3 +53,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2025-12-21 13:54] VirusTotal API enrichment
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
