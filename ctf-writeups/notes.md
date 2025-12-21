@@ -43,3 +43,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2025-12-21 23:11] Windows Event ID 4625
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
