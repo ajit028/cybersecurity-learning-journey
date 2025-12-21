@@ -63,3 +63,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2025-12-21 23:38] Sysmon Event ID 1
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
