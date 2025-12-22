@@ -48,3 +48,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2025-12-22 09:03] Sysmon Event ID 1
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
