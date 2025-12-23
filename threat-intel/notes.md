@@ -58,3 +58,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2025-12-23 09:44] Wireshark HTTP streams
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
