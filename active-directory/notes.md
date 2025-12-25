@@ -58,3 +58,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2025-12-25 10:38] SSH brute-force detection
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
