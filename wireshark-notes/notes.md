@@ -98,3 +98,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2025-12-26 14:26] Base64 payload decoding
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
