@@ -73,3 +73,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2025-12-27 20:18] Phishing email header analysis
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
