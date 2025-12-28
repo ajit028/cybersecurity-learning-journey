@@ -63,3 +63,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2025-12-28 21:24] Splunk SPL stats and timechart
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
