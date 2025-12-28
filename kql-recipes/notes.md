@@ -88,3 +88,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2025-12-28 12:29] KQL join queries
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
