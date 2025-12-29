@@ -63,3 +63,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2025-12-29 19:46] Windows Event ID 4625
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
