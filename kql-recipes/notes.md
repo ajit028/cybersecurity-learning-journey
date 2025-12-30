@@ -98,3 +98,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2025-12-30 21:40] Memory dump analysis
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
