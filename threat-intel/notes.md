@@ -63,3 +63,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2025-12-30 21:42] Bandit level progression
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
