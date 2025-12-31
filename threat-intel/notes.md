@@ -68,3 +68,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2025-12-31 22:32] Sysmon Event ID 1
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
