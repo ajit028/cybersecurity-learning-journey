@@ -103,3 +103,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-01-01 15:10] Base64 payload decoding
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
