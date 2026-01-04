@@ -63,3 +63,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-01-04 23:30] VirusTotal API enrichment
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
