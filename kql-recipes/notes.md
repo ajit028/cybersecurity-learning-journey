@@ -108,3 +108,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-01-06 15:57] Bandit level progression
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
