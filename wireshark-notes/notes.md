@@ -108,3 +108,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-01-06 11:38] KQL join queries
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
