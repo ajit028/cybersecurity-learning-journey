@@ -78,3 +78,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-01-09 19:49] Memory dump analysis
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
