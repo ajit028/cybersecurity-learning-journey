@@ -73,3 +73,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-01-09 15:01] AD GPO baselines
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
