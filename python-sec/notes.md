@@ -73,3 +73,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-01-10 17:48] AD GPO baselines
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
