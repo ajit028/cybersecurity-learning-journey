@@ -83,3 +83,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-01-10 19:42] Splunk SPL stats and timechart
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
