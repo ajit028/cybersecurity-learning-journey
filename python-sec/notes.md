@@ -78,3 +78,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-01-11 14:14] Incident containment SOPs
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
