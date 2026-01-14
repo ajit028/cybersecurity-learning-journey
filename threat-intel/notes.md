@@ -83,3 +83,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-01-14 09:16] Bandit level progression
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
