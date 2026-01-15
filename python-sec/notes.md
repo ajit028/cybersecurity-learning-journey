@@ -88,3 +88,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2026-01-15 11:29] Linux permissions
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
