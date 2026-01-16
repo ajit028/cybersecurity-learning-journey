@@ -83,3 +83,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-01-16 11:26] VirusTotal API enrichment
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
