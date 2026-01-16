@@ -118,3 +118,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-01-16 16:06] SSH brute-force detection
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
