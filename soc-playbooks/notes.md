@@ -123,3 +123,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-01-17 14:41] AD GPO baselines
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
