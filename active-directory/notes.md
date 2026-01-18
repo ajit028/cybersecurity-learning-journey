@@ -83,3 +83,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-01-18 13:11] Linux permissions
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
