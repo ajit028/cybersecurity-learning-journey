@@ -113,3 +113,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-01-18 20:45] Bandit level progression
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
