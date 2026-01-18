@@ -93,3 +93,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-01-18 13:19] Base64 payload decoding
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
