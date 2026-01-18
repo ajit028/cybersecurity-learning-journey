@@ -78,3 +78,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-01-18 12:37] Incident containment SOPs
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
