@@ -128,3 +128,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-01-19 21:10] Sysmon Event ID 1
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
