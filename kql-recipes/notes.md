@@ -123,3 +123,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2026-01-20 21:14] Bandit level progression
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
