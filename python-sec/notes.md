@@ -103,3 +103,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-01-21 21:32] TCP three-way handshake
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
