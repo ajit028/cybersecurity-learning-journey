@@ -93,3 +93,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-01-21 15:00] Sysmon Event ID 1
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
