@@ -88,3 +88,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-01-22 14:36] SSH brute-force detection
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
