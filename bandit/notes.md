@@ -98,3 +98,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-01-22 21:54] Windows Event ID 4625
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
