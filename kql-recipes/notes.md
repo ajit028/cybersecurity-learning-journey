@@ -128,3 +128,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-01-23 09:23] VirusTotal API enrichment
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
