@@ -83,3 +83,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-01-25 12:41] Bandit level progression
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
