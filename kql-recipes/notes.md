@@ -133,3 +133,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2026-01-25 09:32] SSH brute-force detection
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
