@@ -98,3 +98,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2026-01-27 20:31] AD GPO baselines
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
