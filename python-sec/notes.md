@@ -113,3 +113,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-01-27 13:23] Port scanning basics
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
