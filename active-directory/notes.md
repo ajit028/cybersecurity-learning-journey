@@ -93,3 +93,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2026-01-27 11:38] Phishing email header analysis
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
