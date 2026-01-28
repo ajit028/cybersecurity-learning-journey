@@ -93,3 +93,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-01-28 19:13] TCP three-way handshake
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
