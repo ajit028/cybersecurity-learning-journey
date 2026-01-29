@@ -118,3 +118,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-01-29 20:28] Suricata rule syntax
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
