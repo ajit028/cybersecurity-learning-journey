@@ -103,3 +103,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-02-02 13:45] MITRE ATT&CK Initial Access
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
