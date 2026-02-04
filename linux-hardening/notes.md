@@ -98,3 +98,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-02-04 15:59] Memory dump analysis
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
