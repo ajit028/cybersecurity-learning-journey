@@ -103,3 +103,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-02-05 19:03] VirusTotal API enrichment
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
