@@ -143,3 +143,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2026-02-06 11:32] Suricata rule syntax
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
