@@ -103,3 +103,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-02-06 14:39] VirusTotal API enrichment
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
