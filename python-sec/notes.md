@@ -118,3 +118,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-02-07 20:17] Base64 payload decoding
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
