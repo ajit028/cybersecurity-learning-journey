@@ -128,3 +128,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-02-07 21:14] AD GPO baselines
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
