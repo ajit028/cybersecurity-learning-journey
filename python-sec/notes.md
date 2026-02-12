@@ -128,3 +128,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-02-12 10:44] Incident containment SOPs
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
