@@ -148,3 +148,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-02-13 21:26] Phishing email header analysis
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
