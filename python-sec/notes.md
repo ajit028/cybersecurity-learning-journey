@@ -138,3 +138,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2026-02-14 14:17] SSH brute-force detection
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
