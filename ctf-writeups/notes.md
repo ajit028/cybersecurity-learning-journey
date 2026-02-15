@@ -113,3 +113,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
+
+### [2026-02-15 16:33] Incident containment SOPs
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
