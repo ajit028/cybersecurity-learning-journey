@@ -153,3 +153,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-02-16 18:24] Splunk SPL stats and timechart
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
