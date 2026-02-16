@@ -118,3 +118,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-02-16 14:53] Windows Event ID 4625
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
