@@ -158,3 +158,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
+
+### [2026-02-17 16:16] KQL join queries
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
