@@ -123,3 +123,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-02-20 13:36] Incident containment SOPs
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
