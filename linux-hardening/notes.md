@@ -128,3 +128,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-02-22 22:23] Phishing email header analysis
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
