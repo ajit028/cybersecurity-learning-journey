@@ -163,3 +163,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-02-22 17:12] Base64 payload decoding
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
