@@ -128,3 +128,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-02-27 11:20] Port scanning basics
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
