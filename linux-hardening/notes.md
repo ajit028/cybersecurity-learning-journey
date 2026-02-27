@@ -138,3 +138,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-02-27 16:48] Splunk SPL stats and timechart
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
