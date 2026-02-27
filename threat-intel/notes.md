@@ -113,3 +113,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-02-27 13:53] Port scanning basics
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
