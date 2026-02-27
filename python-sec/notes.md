@@ -158,3 +158,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-02-27 17:48] Bandit level progression
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
