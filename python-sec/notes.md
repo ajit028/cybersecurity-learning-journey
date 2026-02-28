@@ -163,3 +163,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-02-28 20:10] MITRE ATT&CK Initial Access
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
