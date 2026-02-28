@@ -123,3 +123,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-02-28 18:38] Kerberoasting mitigation
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
