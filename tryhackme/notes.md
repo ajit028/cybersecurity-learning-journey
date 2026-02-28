@@ -118,3 +118,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-02-28 13:30] Port scanning basics
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
