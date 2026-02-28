@@ -118,3 +118,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-02-28 17:53] KQL join queries
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
