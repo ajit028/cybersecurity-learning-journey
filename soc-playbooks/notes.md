@@ -158,3 +158,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-03-03 18:06] Sysmon Event ID 1
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
