@@ -168,3 +168,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-03-03 12:10] DNS query entropy
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
