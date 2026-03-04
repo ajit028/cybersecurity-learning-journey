@@ -138,3 +138,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-03-04 20:59] Wireshark HTTP streams
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
