@@ -143,3 +143,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-03-04 14:47] Suricata rule syntax
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
