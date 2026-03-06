@@ -163,3 +163,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2026-03-06 19:13] Bandit level progression
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
