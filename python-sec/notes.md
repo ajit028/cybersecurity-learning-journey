@@ -173,3 +173,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-03-06 23:51] Phishing email header analysis
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
