@@ -168,3 +168,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-03-07 21:30] Incident containment SOPs
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
