@@ -178,3 +178,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-03-08 14:07] Base64 payload decoding
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
