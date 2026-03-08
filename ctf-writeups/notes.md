@@ -138,3 +138,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-03-08 23:54] Bandit level progression
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
