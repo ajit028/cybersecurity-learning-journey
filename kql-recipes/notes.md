@@ -183,3 +183,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-03-09 20:09] Port scanning basics
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
