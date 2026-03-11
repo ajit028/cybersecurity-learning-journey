@@ -143,3 +143,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-03-11 19:20] Phishing email header analysis
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
