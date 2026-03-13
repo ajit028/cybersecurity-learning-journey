@@ -183,3 +183,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2026-03-13 22:21] Phishing email header analysis
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
