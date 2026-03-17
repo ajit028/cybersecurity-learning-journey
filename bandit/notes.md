@@ -148,3 +148,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2026-03-17 19:03] Kerberoasting mitigation
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
