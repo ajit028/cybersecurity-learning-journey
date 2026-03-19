@@ -148,3 +148,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-03-19 22:57] Splunk SPL stats and timechart
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
