@@ -188,3 +188,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-03-22 13:35] DNS query entropy
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
