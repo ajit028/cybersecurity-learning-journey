@@ -133,3 +133,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-03-23 23:09] Bandit level progression
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
