@@ -193,3 +193,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-03-24 12:20] DNS query entropy
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
