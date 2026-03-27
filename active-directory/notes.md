@@ -138,3 +138,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-03-27 16:11] DNS query entropy
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
