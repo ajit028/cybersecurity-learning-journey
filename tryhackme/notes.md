@@ -138,3 +138,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-03-28 22:33] MITRE ATT&CK Initial Access
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
