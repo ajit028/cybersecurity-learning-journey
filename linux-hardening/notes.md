@@ -153,3 +153,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-04-02 16:15] Linux permissions
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
