@@ -143,3 +143,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-04-04 18:58] Suricata rule syntax
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
