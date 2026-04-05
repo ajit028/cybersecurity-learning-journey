@@ -158,3 +158,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-04-05 17:12] Memory dump analysis
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
