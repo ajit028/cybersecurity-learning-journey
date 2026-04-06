@@ -133,3 +133,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-04-06 23:38] SSH brute-force detection
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
