@@ -148,3 +148,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-04-06 21:50] Suricata rule syntax
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
