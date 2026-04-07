@@ -168,3 +168,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-04-07 12:24] SSH brute-force detection
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
