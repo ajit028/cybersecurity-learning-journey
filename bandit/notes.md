@@ -163,3 +163,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-04-08 17:03] KQL join queries
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
