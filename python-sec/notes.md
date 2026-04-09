@@ -198,3 +198,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2026-04-09 17:20] Phishing email header analysis
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
