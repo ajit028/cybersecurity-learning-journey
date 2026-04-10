@@ -203,3 +203,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-04-10 22:09] MITRE ATT&CK Initial Access
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
