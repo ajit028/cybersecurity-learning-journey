@@ -1,7 +1,10 @@
 # Bandit Level 12 → 13
 
 ## Goal
-Extract password from a file with multiple compression layers
+Extract password from multiple compressed files
+
+## Approach
+Convert hex to binary and repeatedly decompress.
 
 ## Commands Used
 xxd -r data.txt > file
@@ -10,11 +13,10 @@ mv file file.gz
 gunzip file.gz
 
 ## Explanation
-Convert hex dump back to binary.
-Identify file type and decompress repeatedly.
+The file is layered with multiple compressions that must be removed step by step.
 
 ## Key Learning
-Working with encoded and compressed files.
+Handling multiple file encodings.
 
 ## Real World Use
-Used in malware analysis and digital forensics.
+Forensics and malware analysis.
