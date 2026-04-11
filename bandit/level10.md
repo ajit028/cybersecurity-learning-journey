@@ -1,16 +1,19 @@
 # Bandit Level 10 → 11
 
 ## Goal
-Decode the base64 encoded password
+Decode base64 encoded data
+
+## Approach
+Use base64 decoding to retrieve the original content.
 
 ## Commands Used
 cat data.txt | base64 -d
 
 ## Explanation
-Used base64 decoding to convert encoded data into readable format.
+The file is encoded in base64 format. Decoding reveals the password.
 
 ## Key Learning
-Understanding encoding and decoding techniques.
+Working with base64 encoding.
 
 ## Real World Use
-Handling encoded data in web security and data transmission.
+Decoding encoded data in applications and security.
