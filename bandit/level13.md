@@ -3,14 +3,17 @@
 ## Goal
 Login using SSH private key
 
+## Approach
+Use the provided private key for authentication.
+
 ## Commands Used
 ssh -i sshkey.private bandit14@localhost
 
 ## Explanation
-Instead of password authentication, SSH private key is used.
+Private key authentication allows login without a password.
 
 ## Key Learning
-SSH key-based authentication.
+SSH authentication methods.
 
 ## Real World Use
-Secure remote server access.
+Secure server access.
