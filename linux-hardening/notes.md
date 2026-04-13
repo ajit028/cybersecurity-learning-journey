@@ -158,3 +158,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-04-13 17:08] TCP three-way handshake
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
