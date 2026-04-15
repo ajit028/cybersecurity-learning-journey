@@ -178,3 +178,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-04-15 14:16] TCP three-way handshake
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
