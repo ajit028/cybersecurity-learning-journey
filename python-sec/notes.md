@@ -213,3 +213,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-04-17 14:15] Suricata rule syntax
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
