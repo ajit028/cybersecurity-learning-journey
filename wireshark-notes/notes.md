@@ -183,3 +183,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2026-04-17 11:40] Port scanning basics
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
