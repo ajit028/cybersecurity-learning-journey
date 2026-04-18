@@ -148,3 +148,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-04-18 19:23] Bandit level progression
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
