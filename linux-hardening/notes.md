@@ -168,3 +168,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2026-04-18 16:19] Wireshark HTTP streams
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
