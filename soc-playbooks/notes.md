@@ -208,3 +208,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
+
+### [2026-04-22 13:08] Splunk SPL stats and timechart
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
