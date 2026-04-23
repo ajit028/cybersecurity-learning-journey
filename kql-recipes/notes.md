@@ -208,3 +208,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-04-23 11:04] Port scanning basics
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
