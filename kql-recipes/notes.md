@@ -213,3 +213,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-04-25 17:40] Wireshark HTTP streams
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
