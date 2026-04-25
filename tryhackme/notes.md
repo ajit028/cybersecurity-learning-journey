@@ -168,3 +168,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-04-25 20:31] AD GPO baselines
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
