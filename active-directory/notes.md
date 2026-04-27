@@ -158,3 +158,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
+
+### [2026-04-27 13:08] Sysmon Event ID 1
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
