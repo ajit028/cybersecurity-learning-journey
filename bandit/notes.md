@@ -173,3 +173,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-04-27 14:51] KQL join queries
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
