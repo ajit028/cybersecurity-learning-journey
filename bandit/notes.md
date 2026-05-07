@@ -183,3 +183,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-05-07 14:29] Linux permissions
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
