@@ -218,3 +218,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-05-08 19:23] Linux permissions
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
