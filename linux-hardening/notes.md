@@ -178,3 +178,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-05-09 19:02] Kerberoasting mitigation
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
