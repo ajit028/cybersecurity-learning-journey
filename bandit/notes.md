@@ -188,3 +188,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-05-12 22:25] Linux permissions
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
