@@ -218,3 +218,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-05-13 18:36] Wireshark HTTP streams
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
