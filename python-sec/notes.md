@@ -248,3 +248,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-05-13 11:18] Wireshark HTTP streams
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
