@@ -178,3 +178,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-05-13 15:32] Splunk SPL stats and timechart
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
