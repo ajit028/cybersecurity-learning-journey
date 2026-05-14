@@ -188,3 +188,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-05-14 15:25] MITRE ATT&CK Initial Access
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
