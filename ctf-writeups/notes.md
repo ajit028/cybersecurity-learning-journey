@@ -178,3 +178,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-05-15 20:08] Splunk SPL stats and timechart
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
