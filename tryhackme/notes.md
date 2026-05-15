@@ -193,3 +193,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
+
+### [2026-05-15 22:05] TCP three-way handshake
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
