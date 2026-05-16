@@ -188,3 +188,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-05-16 23:26] Suricata rule syntax
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
