@@ -143,3 +143,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-05-18 20:28] TCP three-way handshake
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
