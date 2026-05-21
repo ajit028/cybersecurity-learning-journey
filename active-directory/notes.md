@@ -168,3 +168,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-05-21 13:22] DNS query entropy
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
