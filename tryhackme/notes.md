@@ -203,3 +203,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-05-21 22:08] KQL join queries
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
