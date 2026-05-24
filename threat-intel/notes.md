@@ -158,3 +158,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-05-24 22:12] Linux permissions
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
