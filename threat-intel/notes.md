@@ -163,3 +163,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-05-25 15:58] Base64 payload decoding
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
