@@ -198,3 +198,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-05-25 14:44] TCP three-way handshake
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
