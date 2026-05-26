@@ -173,3 +173,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-05-26 21:26] Wireshark HTTP streams
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
