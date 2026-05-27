@@ -168,3 +168,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-05-27 13:52] Suricata rule syntax
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
