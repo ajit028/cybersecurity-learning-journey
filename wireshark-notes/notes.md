@@ -213,3 +213,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-05-27 13:33] Sysmon Event ID 1
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
