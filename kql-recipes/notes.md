@@ -233,3 +233,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
+
+### [2026-05-30 22:05] Wireshark HTTP streams
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
