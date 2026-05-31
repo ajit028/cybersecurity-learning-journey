@@ -208,3 +208,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-05-31 11:43] Base64 payload decoding
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
