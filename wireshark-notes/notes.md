@@ -218,3 +218,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2026-06-01 19:29] Wireshark HTTP streams
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
