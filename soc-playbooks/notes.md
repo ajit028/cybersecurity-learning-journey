@@ -223,3 +223,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-06-02 19:06] Suricata rule syntax
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
