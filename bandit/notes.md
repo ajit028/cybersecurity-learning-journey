@@ -213,3 +213,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
+
+### [2026-06-04 13:45] SSH brute-force detection
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
