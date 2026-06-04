@@ -188,3 +188,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-06-04 18:27] Suricata rule syntax
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
