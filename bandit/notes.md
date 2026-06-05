@@ -218,3 +218,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2026-06-05 15:35] Incident containment SOPs
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
