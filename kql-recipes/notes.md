@@ -238,3 +238,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-06-05 15:06] Windows Event ID 4625
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
