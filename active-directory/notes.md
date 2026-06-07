@@ -178,3 +178,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-06-07 16:47] Sysmon Event ID 1
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
