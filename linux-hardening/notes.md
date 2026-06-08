@@ -213,3 +213,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-06-08 11:31] Splunk SPL stats and timechart
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
