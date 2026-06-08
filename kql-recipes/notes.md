@@ -243,3 +243,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-06-08 09:22] Sysmon Event ID 1
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
