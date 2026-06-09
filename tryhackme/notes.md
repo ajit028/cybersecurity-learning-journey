@@ -218,3 +218,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-06-09 17:38] Linux permissions
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
