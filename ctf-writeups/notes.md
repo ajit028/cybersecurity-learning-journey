@@ -193,3 +193,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-06-13 15:52] Incident containment SOPs
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
