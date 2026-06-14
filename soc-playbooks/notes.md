@@ -228,3 +228,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-06-14 19:05] Windows Event ID 4625
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
