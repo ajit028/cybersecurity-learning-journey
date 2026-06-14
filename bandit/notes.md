@@ -243,3 +243,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2026-06-14 19:39] Base64 payload decoding
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
