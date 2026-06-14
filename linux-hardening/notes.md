@@ -223,3 +223,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2026-06-14 20:38] Kerberoasting mitigation
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
