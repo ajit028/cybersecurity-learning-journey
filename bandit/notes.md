@@ -248,3 +248,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-06-15 18:21] Suricata rule syntax
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
