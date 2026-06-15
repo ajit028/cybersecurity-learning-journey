@@ -183,3 +183,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2026-06-15 11:30] Bandit level progression
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
