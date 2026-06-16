@@ -253,3 +253,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-06-16 16:37] DNS query entropy
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
