@@ -198,3 +198,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-06-16 23:04] Linux permissions
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
