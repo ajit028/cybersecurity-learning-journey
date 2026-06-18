@@ -188,3 +188,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-06-18 09:02] MITRE ATT&CK Initial Access
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
