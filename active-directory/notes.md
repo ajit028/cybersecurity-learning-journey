@@ -198,3 +198,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-06-20 16:31] Splunk SPL stats and timechart
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
