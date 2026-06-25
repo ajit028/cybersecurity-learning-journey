@@ -183,3 +183,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2026-06-25 21:10] Splunk SPL stats and timechart
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
