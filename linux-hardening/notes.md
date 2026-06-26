@@ -233,3 +233,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-06-26 09:51] MITRE ATT&CK Initial Access
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
