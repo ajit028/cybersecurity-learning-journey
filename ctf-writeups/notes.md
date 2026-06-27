@@ -218,3 +218,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-06-27 11:33] Incident containment SOPs
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
