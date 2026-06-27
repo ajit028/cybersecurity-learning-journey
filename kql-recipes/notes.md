@@ -268,3 +268,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-06-27 13:16] VirusTotal API enrichment
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
