@@ -278,3 +278,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2026-07-01 11:11] Incident containment SOPs
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
