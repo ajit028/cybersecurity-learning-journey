@@ -228,3 +228,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-07-04 18:33] SSH brute-force detection
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
