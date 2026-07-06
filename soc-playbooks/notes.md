@@ -243,3 +243,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-07-06 15:58] DNS query entropy
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
