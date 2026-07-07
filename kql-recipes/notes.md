@@ -278,3 +278,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-07-07 20:26] Splunk SPL stats and timechart
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
