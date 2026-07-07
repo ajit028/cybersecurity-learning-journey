@@ -213,3 +213,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-07-07 13:16] VirusTotal API enrichment
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
