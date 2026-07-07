@@ -248,3 +248,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-07-07 16:12] Phishing email header analysis
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
