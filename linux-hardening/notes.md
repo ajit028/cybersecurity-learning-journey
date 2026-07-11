@@ -248,3 +248,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-07-11 12:56] Incident containment SOPs
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
