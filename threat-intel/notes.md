@@ -208,3 +208,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
+
+### [2026-07-12 10:06] DNS query entropy
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
