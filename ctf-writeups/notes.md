@@ -238,3 +238,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-07-14 22:26] MITRE ATT&CK Initial Access
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
