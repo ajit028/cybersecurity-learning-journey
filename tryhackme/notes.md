@@ -253,3 +253,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-07-14 12:11] Kerberoasting mitigation
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
