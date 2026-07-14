@@ -218,3 +218,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
+
+### [2026-07-14 20:07] AD GPO baselines
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
