@@ -248,3 +248,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-07-15 19:15] KQL join queries
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
