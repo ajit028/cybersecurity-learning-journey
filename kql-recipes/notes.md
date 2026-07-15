@@ -288,3 +288,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-07-15 19:37] Wireshark HTTP streams
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
