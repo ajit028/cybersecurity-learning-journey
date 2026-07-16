@@ -253,3 +253,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-07-16 23:28] VirusTotal API enrichment
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
