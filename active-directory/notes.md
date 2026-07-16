@@ -223,3 +223,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-07-16 13:23] Wireshark HTTP streams
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
