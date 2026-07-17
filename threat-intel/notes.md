@@ -213,3 +213,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-07-17 19:46] Sysmon Event ID 1
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
