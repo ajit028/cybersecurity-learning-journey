@@ -293,3 +293,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-07-19 12:41] TCP three-way handshake
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
