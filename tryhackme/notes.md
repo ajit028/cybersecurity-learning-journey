@@ -263,3 +263,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-07-19 10:39] Splunk SPL stats and timechart
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
