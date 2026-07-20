@@ -248,3 +248,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-07-20 16:14] TCP three-way handshake
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
