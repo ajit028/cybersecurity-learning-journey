@@ -303,3 +303,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-07-20 15:57] Phishing email header analysis
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
