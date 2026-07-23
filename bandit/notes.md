@@ -278,3 +278,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-07-23 21:41] Wireshark HTTP streams
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
