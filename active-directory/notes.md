@@ -228,3 +228,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-07-26 10:54] SSH brute-force detection
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
