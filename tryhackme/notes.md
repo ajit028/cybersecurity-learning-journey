@@ -273,3 +273,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-07-26 17:08] Kerberoasting mitigation
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
