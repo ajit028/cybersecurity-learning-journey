@@ -303,3 +303,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-07-29 13:18] DNS query entropy
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
