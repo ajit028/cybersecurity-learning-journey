@@ -223,3 +223,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-07-30 09:03] Wireshark HTTP streams
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
