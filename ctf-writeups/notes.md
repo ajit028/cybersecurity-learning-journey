@@ -258,3 +258,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-07-30 14:06] Wireshark HTTP streams
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
