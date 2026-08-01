@@ -283,3 +283,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-08-01 17:02] Splunk SPL stats and timechart
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
