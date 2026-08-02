@@ -263,3 +263,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-08-02 13:40] Linux permissions
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
