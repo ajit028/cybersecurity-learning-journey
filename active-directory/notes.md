@@ -233,3 +233,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
+
+### [2026-08-02 18:25] KQL join queries
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
