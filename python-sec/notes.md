@@ -318,3 +318,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
+
+### [2026-08-05 22:44] Suricata rule syntax
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
