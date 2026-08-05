@@ -323,3 +323,8 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-08-05 15:04] VirusTotal API enrichment
+- **Module**: KQL Threat Detection
+- **Focus**: Production Kusto queries for Sentinel and Log Analytics
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
