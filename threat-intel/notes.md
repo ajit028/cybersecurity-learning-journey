@@ -238,3 +238,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-08-07 16:44] Wireshark HTTP streams
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
