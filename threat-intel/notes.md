@@ -243,3 +243,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-08-07 15:32] Kerberoasting mitigation
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
