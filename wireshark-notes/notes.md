@@ -253,3 +253,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced tcp three-way handshake detection techniques and updated analysis methodology.
+
+### [2026-08-08 14:51] VirusTotal API enrichment
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced virustotal api enrichment detection techniques and updated analysis methodology.
