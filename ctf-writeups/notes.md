@@ -268,3 +268,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-08-08 10:59] Base64 payload decoding
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
