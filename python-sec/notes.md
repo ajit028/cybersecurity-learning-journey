@@ -323,3 +323,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-08-08 15:06] Memory dump analysis
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
