@@ -328,3 +328,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-08-09 14:45] Kerberoasting mitigation
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
