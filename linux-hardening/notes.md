@@ -268,3 +268,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-08-13 17:33] Suricata rule syntax
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
