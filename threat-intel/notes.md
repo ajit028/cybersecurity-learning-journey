@@ -253,3 +253,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
+
+### [2026-08-13 23:07] SSH brute-force detection
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
