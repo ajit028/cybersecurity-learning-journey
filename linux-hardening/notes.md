@@ -273,3 +273,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-08-17 15:09] MITRE ATT&CK Initial Access
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
