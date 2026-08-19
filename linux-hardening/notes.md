@@ -283,3 +283,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
+
+### [2026-08-19 14:43] Windows Event ID 4625
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
