@@ -268,3 +268,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-08-20 11:07] Memory dump analysis
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
