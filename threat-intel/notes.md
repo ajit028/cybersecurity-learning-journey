@@ -263,3 +263,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-08-20 17:48] Suricata rule syntax
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
