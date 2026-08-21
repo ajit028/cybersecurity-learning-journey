@@ -278,3 +278,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-08-21 11:26] MITRE ATT&CK Initial Access
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced mitre att&ck initial access detection techniques and updated analysis methodology.
