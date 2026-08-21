@@ -283,3 +283,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-08-21 11:09] Bandit level progression
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
