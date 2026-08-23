@@ -293,3 +293,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-08-23 16:47] Kerberoasting mitigation
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
