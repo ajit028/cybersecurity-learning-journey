@@ -288,3 +288,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-08-23 20:34] Phishing email header analysis
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
