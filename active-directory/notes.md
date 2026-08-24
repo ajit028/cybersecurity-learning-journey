@@ -243,3 +243,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
+
+### [2026-08-24 13:54] Windows Event ID 4625
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
