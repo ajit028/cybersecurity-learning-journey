@@ -238,3 +238,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-08-24 10:41] DNS query entropy
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
