@@ -288,3 +288,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-08-25 15:08] Incident containment SOPs
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
