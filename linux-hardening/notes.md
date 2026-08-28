@@ -293,3 +293,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-08-28 16:01] Memory dump analysis
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
