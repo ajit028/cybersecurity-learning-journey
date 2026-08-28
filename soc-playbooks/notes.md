@@ -288,3 +288,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-08-28 16:53] AD GPO baselines
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
