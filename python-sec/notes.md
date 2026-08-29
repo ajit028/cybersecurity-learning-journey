@@ -338,3 +338,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-08-29 12:47] DNS query entropy
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced dns query entropy detection techniques and updated analysis methodology.
