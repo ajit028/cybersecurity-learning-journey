@@ -303,3 +303,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-08-31 22:38] Wireshark HTTP streams
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
