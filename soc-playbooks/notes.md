@@ -293,3 +293,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-09-03 19:03] Linux permissions
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
