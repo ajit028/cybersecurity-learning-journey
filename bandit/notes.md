@@ -308,3 +308,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-09-04 15:05] Sysmon Event ID 1
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
