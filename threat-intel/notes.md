@@ -273,3 +273,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-09-05 11:58] Splunk SPL stats and timechart
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced splunk spl stats and timechart detection techniques and updated analysis methodology.
