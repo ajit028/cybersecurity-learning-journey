@@ -298,3 +298,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-09-06 12:44] KQL join queries
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
