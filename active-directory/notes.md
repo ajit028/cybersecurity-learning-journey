@@ -248,3 +248,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-09-06 23:07] Phishing email header analysis
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
