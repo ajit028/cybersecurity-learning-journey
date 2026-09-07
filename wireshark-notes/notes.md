@@ -293,3 +293,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-09-07 15:47] AD GPO baselines
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
