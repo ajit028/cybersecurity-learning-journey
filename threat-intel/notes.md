@@ -283,3 +283,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
+
+### [2026-09-07 13:51] Bandit level progression
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
