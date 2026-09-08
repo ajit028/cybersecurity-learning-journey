@@ -293,3 +293,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-09-08 09:29] Base64 payload decoding
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
