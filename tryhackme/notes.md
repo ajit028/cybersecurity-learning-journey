@@ -298,3 +298,8 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-09-09 14:53] SSH brute-force detection
+- **Module**: TryHackMe SOC Level 1
+- **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
