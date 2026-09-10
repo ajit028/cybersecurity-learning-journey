@@ -298,3 +298,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-09-10 14:36] Sysmon Event ID 1
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
