@@ -293,3 +293,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-09-11 14:01] Suricata rule syntax
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced suricata rule syntax detection techniques and updated analysis methodology.
