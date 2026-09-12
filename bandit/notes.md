@@ -318,3 +318,8 @@
 - **Module**: Bandit Linux Challenge
 - **Focus**: OverTheWire Linux security and shell scripting
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-09-12 13:39] Port scanning basics
+- **Module**: Bandit Linux Challenge
+- **Focus**: OverTheWire Linux security and shell scripting
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
