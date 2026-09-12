@@ -258,3 +258,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-09-12 11:57] Port scanning basics
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced port scanning basics detection techniques and updated analysis methodology.
