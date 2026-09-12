@@ -303,3 +303,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced ad gpo baselines detection techniques and updated analysis methodology.
+
+### [2026-09-12 12:05] Sysmon Event ID 1
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
