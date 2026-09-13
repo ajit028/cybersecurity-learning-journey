@@ -303,3 +303,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-09-13 18:17] Kerberoasting mitigation
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced kerberoasting mitigation detection techniques and updated analysis methodology.
