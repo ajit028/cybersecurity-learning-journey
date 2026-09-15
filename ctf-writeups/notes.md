@@ -298,3 +298,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
+
+### [2026-09-15 10:13] KQL join queries
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
