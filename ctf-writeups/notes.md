@@ -308,3 +308,8 @@
 - **Module**: Blue Team CTFs
 - **Focus**: Memory forensics, log analysis, and network packet challenges
 - **Details**: Practiced bandit level progression detection techniques and updated analysis methodology.
+
+### [2026-09-17 20:41] SSH brute-force detection
+- **Module**: Blue Team CTFs
+- **Focus**: Memory forensics, log analysis, and network packet challenges
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
