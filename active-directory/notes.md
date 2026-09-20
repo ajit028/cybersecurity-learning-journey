@@ -268,3 +268,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-09-20 09:21] Incident containment SOPs
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
