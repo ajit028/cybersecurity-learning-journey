@@ -318,3 +318,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced linux permissions detection techniques and updated analysis methodology.
+
+### [2026-09-21 21:07] Incident containment SOPs
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
