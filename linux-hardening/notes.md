@@ -308,3 +308,8 @@
 - **Module**: Linux Systems Security
 - **Focus**: SSH hardening, firewalls, and auditd configurations
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-09-22 11:58] Base64 payload decoding
+- **Module**: Linux Systems Security
+- **Focus**: SSH hardening, firewalls, and auditd configurations
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
