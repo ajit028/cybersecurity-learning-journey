@@ -308,3 +308,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-09-23 20:28] Phishing email header analysis
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
