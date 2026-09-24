@@ -273,3 +273,8 @@
 - **Module**: Active Directory Defense
 - **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
 - **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
+
+### [2026-09-24 17:22] Base64 payload decoding
+- **Module**: Active Directory Defense
+- **Focus**: Kerberos tickets, SPN auditing, BloodHound attack path analysis
+- **Details**: Practiced base64 payload decoding detection techniques and updated analysis methodology.
