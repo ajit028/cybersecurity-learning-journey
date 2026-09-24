@@ -333,3 +333,8 @@
 - **Module**: Wireshark Packet Forensics
 - **Focus**: Deep packet inspection and protocol analysis
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-09-24 14:17] Windows Event ID 4625
+- **Module**: Wireshark Packet Forensics
+- **Focus**: Deep packet inspection and protocol analysis
+- **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
