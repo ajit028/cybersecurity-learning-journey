@@ -368,3 +368,8 @@
 - **Module**: Python Security Scripts
 - **Focus**: Regex IOC extractor, log parser, and automation scripts
 - **Details**: Practiced wireshark http streams detection techniques and updated analysis methodology.
+
+### [2026-09-25 13:41] SSH brute-force detection
+- **Module**: Python Security Scripts
+- **Focus**: Regex IOC extractor, log parser, and automation scripts
+- **Details**: Practiced ssh brute-force detection detection techniques and updated analysis methodology.
