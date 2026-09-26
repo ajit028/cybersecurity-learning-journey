@@ -313,3 +313,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced windows event id 4625 detection techniques and updated analysis methodology.
+
+### [2026-09-26 16:25] Incident containment SOPs
+- **Module**: SOC Incident Response
+- **Focus**: NIST/SANS incident response workflows and checklists
+- **Details**: Practiced incident containment sops detection techniques and updated analysis methodology.
