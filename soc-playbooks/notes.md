@@ -332,3 +332,6 @@
 ### [2026-10-01 11:40] Phishing email triage SOP with header analysis and sandbox detonation
 - **Module**: SOC Incident Response
 - **Details**: Practiced phishing email triage sop with header analysis and sandbox detonation and documented key findings.
+
+### [2026-09-28 11:41 IST] SOC Playbooks
+- Updated malware triage SOP based on CISA recommended practices
