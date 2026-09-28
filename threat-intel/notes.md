@@ -318,3 +318,8 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced phishing email header analysis detection techniques and updated analysis methodology.
+
+### [2026-09-28 20:26] STIX 2.1 IOC extraction integration
+- **Module**: Threat Intelligence
+- **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
+- **Details**: Practiced stix 2.1 ioc extraction integration detection techniques and updated analysis methodology after implementing PyMISP integration.
