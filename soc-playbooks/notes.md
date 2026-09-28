@@ -323,3 +323,8 @@
 - **Module**: SOC Incident Response
 - **Focus**: NIST/SANS incident response workflows and checklists
 - **Details**: Practiced memory dump analysis detection techniques and updated analysis methodology.
+
+### [2026-09-28 21:10] Active Response Containment
+- **Module**: SOC Triage Playbooks
+- **Focus**: Wazuh Active Response & Firewall Drops
+- **Details**: Completed today's lab session on configuring Wazuh active response to dynamically trigger firewall drops upon detecting consecutive authentication failures (Event ID 4625).
