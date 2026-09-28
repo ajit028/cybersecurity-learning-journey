@@ -323,3 +323,6 @@
 - **Module**: Threat Intelligence
 - **Focus**: STIX/TAXII standards, VirusTotal, AbuseIPDB, and MITRE ATT&CK
 - **Details**: Practiced stix 2.1 ioc extraction integration detection techniques and updated analysis methodology after implementing PyMISP integration.
+
+### [2026-09-28 23:17 IST] Threat Intel
+- Mapped today's IOC enrichment findings to MITRE ATT&CK T1071 sub-techniques
