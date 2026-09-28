@@ -313,3 +313,6 @@
 - **Module**: TryHackMe SOC Level 1
 - **Focus**: SOC Analyst path, Splunk, Wireshark, Phishing analysis
 - **Details**: Practiced sysmon event id 1 detection techniques and updated analysis methodology.
+
+### [2026-09-28 09:10 IST] TryHackMe
+- Completed SOC Level 1 Phishing Analysis module and documented key artifacts
