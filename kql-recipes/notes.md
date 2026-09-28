@@ -391,3 +391,6 @@
 ### [2026-10-01 12:50] Advanced KQL join and summarize queries for Sentinel SecurityEvent tables
 - **Module**: KQL Threat Detection
 - **Details**: Practiced advanced kql join and summarize queries for sentinel securityevent tables and documented key findings.
+
+### [2026-09-28 17:19 IST] KQL Recipes
+- Documented DeviceProcessEvents query for suspicious PowerShell executions
