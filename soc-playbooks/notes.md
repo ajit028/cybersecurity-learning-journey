@@ -328,3 +328,7 @@
 - **Module**: SOC Triage Playbooks
 - **Focus**: Wazuh Active Response & Firewall Drops
 - **Details**: Completed today's lab session on configuring Wazuh active response to dynamically trigger firewall drops upon detecting consecutive authentication failures (Event ID 4625).
+
+### [2026-10-01 11:40] Phishing email triage SOP with header analysis and sandbox detonation
+- **Module**: SOC Incident Response
+- **Details**: Practiced phishing email triage sop with header analysis and sandbox detonation and documented key findings.
