@@ -383,3 +383,7 @@
 - **Module**: KQL Threat Detection
 - **Focus**: Production Kusto queries for Sentinel and Log Analytics
 - **Details**: Practiced kql join queries detection techniques and updated analysis methodology.
+
+### [2026-10-01 09:59] Advanced KQL join and summarize queries for Sentinel SecurityEvent tables
+- **Module**: KQL Threat Detection
+- **Details**: Practiced advanced kql join and summarize queries for sentinel securityevent tables and documented key findings.
